@@ -20,7 +20,7 @@
 - Catchment: Sattelbach, Salzburg, Austria (1,74 km²)
 - Altitude: 702-1664 m.a.s.l
 - Volume: 12.000 m³
-- Cause: landslide in the upper catchment after heavy rainfalls
+- Cause: landslide in the upper catchment after heavy rainfall
 - Type of debris flow: unknown
 - Entrainment: significant for debris-flow formation
 - Runout: see deposition area gpkg file (Sattelbach_Deposition_Area.gpkg)
