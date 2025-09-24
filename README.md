@@ -2,7 +2,7 @@
 Event and test data for debrisflows
 
 ## Data keywords
-Data should contain the following *type* keywords:
+Data should contain the following **type** keywords:
 - DEM
 - Release
 - Entrainment
@@ -10,7 +10,7 @@ Data should contain the following *type* keywords:
 - Landuse
 - Deposition
 
-*and* the following *format* keywords:
+**and** the following **format** keywords:
 - Area
 - Line
 - Raster
