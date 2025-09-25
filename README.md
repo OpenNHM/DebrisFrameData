@@ -8,7 +8,8 @@ Data should contain the following **type** keywords:
 - Entrainment
 - Forest
 - Landuse
-- Deposition
+- Deposition-
+- Process (-area/outline)
 
 **and** the following **format** keywords:
 - Area
