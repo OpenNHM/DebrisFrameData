@@ -1,13 +1,13 @@
-# debrisReiselehnrinne
+# debris Reiselehnrinne
 
 ## Event 200908
 
 ### Changelog
 #### V0
-- releaseReiselehnrinne.shp
-- Reiselehnrinne_POLY.shp
-- DEM_Reiselehnrinne.tif
-- DEM_Reiselehnrinne.prj
+- Reiselehnrinne_Release_Area.gpkg
+- Reiselehnrinne_Deposition_Area.gpkg
+- Reiselehnrinne_DEM_Raster.tif
+- Reiselehnrinne_DEM_Projection.prj
 
 ---
 
@@ -19,15 +19,15 @@
 - Cause: suspected landslide in the upper catchment
 - Type of debris flow: unknown
 - Entrainment: unknown
-- Runout: see runout area shp file (Reiselehnrinne_POLY.shp)
+- Runout: see deposition area gpkg file (Reiselehnrinne_Deposition_Area.gpkg)
 
 ### Available data
-- release area shp file (releaseReiselehnrinne.shp)
+- release area gpkg file (releaseReiselehnrinne.shp)
     - release height 2,20 m (volume ~25.000 m³ divided by release area)
-- runout area shp file (Reiselehnrinne_POLY.shp)
-- digital terrain model (DEM_Reiselehnrinne.tif)
+- deposition area gpkg file (Reiselehnrinne_Deposition_Area.gpkg)
+- digital terrain model (Reiselehnrinne_DEM_Raster.tif)
     - resolution 1 m x 1 m
-- digital terrain model projection (DEM_Reiselehnrinne.prj)
+- digital terrain model projection (Reiselehnrinne_DEM_Projection.prj)
 
 ### Data source 
 - Schraml, K., Thomschitz, B., McArdell, B. W., Graf, C., and Kaitna, R.: Modeling debris-flow runout patterns on two alpine fans with different dynamic simulation models,
